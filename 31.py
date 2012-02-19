@@ -8,13 +8,6 @@ lst = [1] + [0] * (maxi + 1)
 print lst[200]
 
 
-'''
-BULLSHIT APPROACH
-for c in coins:
-    for i in range(c, maxi+1):
-        lst[i] += lst[i-c]
-'''
-
 
 
 
