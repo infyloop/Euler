@@ -32,6 +32,6 @@ for i in range(2, maxi):
 
 
 ''' easiest way to check if a number is a perfect sqr        
-
+sqrt(n).is_integer()
 kept for reference
 '''
